@@ -1,6 +1,18 @@
-# 💫 About Me:
-🔭 Currently working as a **Data Analyst**, building data-driven dashboards and analysis projects.<br><br>🌐 Learning and developing skills in **Full Stack Web Development** to build scalable and user-friendly applications.<br><br>📊 Skilled in **SQL, Power BI, and Data Analysis**, turning raw data into meaningful insights and visualizations.<br><br>🚀 Passionate about **technology, problem solving, and building real-world projects** that create impact.<br><br>🤝 Open to collaborating on **Data Analytics, Web Development, and Open Source Projects**.<br><br>🌱 Continuously learning **React, JavaScript, and modern web technologies** to grow as a Full Stack Developer.<br><br>⚡ Fun fact: I enjoy transforming complex datasets into **simple insights and interactive dashboards**.
+# 💫 Professional Summary
 
+🔭 Worked on **Data Analytics projects and roles**, with hands-on experience in building dashboards, analyzing datasets, and deriving actionable insights. Also open to **Data Analyst opportunities**.
+
+🌐 Currently learning and developing skills in **Full Stack Web Development** to build scalable and user-friendly applications.
+
+📊 Skilled in **SQL, Power BI, and Data Analysis**, turning raw data into meaningful insights and interactive visualizations.
+
+🚀 Passionate about **technology, problem-solving, and building real-world projects** that create meaningful impact.
+
+🤝 Open to collaborating on **Data Analytics, Web Development, and Open Source Projects**.
+
+🌱 Continuously improving in **React, JavaScript, and modern web technologies** to grow as a Full Stack Developer.
+
+⚡ Fun fact: I enjoy transforming complex datasets into **simple insights and interactive dashboards**.
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=100054782516915) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/sachin_yaduvanshi0002?igsh=MTB0NmJkZ2dsNW9xYw==) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sachin-kumar-42756a364?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sachincseiot@gmail.com) 
@@ -14,10 +26,7 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=sachinyaduvanshi0002&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sachinyaduvanshi0002&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=sachinyaduvanshi0002&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
+### ✍️ Thought of the Day
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
